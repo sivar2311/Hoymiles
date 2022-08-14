@@ -17,8 +17,5 @@
             "version": ">=1.4.2",
             "platforms": "espressif32"
         }
-    ],
-    "examples":[
-        "examples/basic_usage/src/main.cpp"
     ]
 }
